@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ojezotoej.162cm.com/sitemap.xml
